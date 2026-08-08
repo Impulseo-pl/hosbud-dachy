@@ -52,8 +52,8 @@
 
   --hairline:1px solid var(--line);
 
-  --font-display:'Space Grotesk','Inter',sans-serif;
-  --font-body:'Inter',sans-serif;
+  --font-display:'Poppins',sans-serif;
+  --font-body:'Poppins',sans-serif;
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
